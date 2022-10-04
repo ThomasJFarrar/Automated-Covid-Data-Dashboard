@@ -1,0 +1,12 @@
+
+{
+    "news":{
+        "api_key":"<enter your news api key here",
+        "country": "gb",
+        "filter_terms": "Covid COVID-19 coronavirus"
+    },
+    "covid_data":{
+        "location": "Exeter",
+        "location_type": "ltla"
+    }
+}
