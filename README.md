@@ -1,7 +1,7 @@
 
 # Automated Covid-19 Data Dashboard
 ## Introduction
-The automated Covid-19 data dashboard is developed for the Continous Assessment for the ECM1400 module.  It provides up to data local and national Covid-19 figures, up to date Covid-19 news, with the ability to create, modify and remove automated scheduled updates. 
+The automated Covid-19 data dashboard is developed for the Continous Assessment for the ECM1400 module.  It provides up to date local and national Covid-19 figures, up to date Covid-19 news, with the ability to create, modify and remove automated scheduled updates. 
 ## Prerequisites
 **Python 3.7.4** was used for the development of the automated Covid-19 data dashboard. To run the program you will need a Python 3 interpreter. If you are a developer and would like to develop further on this project you will also need a text-editor or an Integrated Development Environment (IDE).
 
